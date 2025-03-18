@@ -29,9 +29,3 @@ Always learning and exploring new tools to improve my skills in data engineering
 - Improving my cloud and DevOps skills.
 - Building data pipelines and optimizing database performance.
 - Exploring new tech to make software development more efficient.
-
-## 📫 Connect with Me
-- **GitHub**: [Your GitHub Profile Link]
-- **LinkedIn**: [Your LinkedIn Profile Link]
-
-Thanks for stopping by! 🚀
